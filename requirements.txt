@@ -1,0 +1,8 @@
+flask
+functions
+anthropic
+packaging
+requests
+waitress
+python-dotenv
+python-docx
